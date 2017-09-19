@@ -17,16 +17,15 @@
   <body>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col col-6 align-self-center">
-                <p>CHARLIE SERABIAN</p>
+            <div class="col col-12 align-self-center">
+                <p id="logo">Charlie SerabiaN</p>
+                </br></br></br>
+                <p>WritinG</p>
                 </br>
-                <p>WRITING</p>
+                <p>IllustrationS</p>
                 </br>
-                <p>ILLUSTRATIONS</p>
-                </br>
-                <p>ABOUT</p>
-                </br>
-                <p>CONTACT</p>
+                <p>AbouT </br> ContacT</p>
+                
             </div>
         </div>
         

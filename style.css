@@ -18,6 +18,23 @@ html, body, .container{
 }
 
 p {
-    font-weight: 800;
+    font-weight: 900;
+    font-size: 70px;
+    font-family:Optimus;
+    color: black;
+    letter-spacing: 10x;
+    
+    
+}
+
+#logo {
+    font-weight: 900;
+    font-size: 80px;
+    letter-spacing: 10px;
+}
+
+@font-face {
+    font-family:Optimus;
+    src: url(fonts/OptimusPrincepsSemiBold.ttf);
 }
 
