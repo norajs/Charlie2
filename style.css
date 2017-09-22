@@ -1,53 +1,49 @@
 body {
-    background-image: url(pics/front.png);
+    background-image: url(pics/front2.png);
     background-size: 100% 100%;
+  	
 }
 
 html, body, .container{
     height: 100%;
-}
-
-.container {
-    border: 1px solid green;
-}
-
-#first_row {
-    margin-top: 45px;
-    margin-bottom: 120px;
-}
-
-#rows {
-    margin-bottom: 35px;
+  	
 }
 
 
 .col {
-    border: 1px solid black;
+   
     text-align: center;
+  	padding:0px;
 }
-
-@media screen and (max-width: 568px) {
-        p {
-    font-size:10px;
-    }
-}
-
 
 p {
     font-weight: 900;
-    font-size: 50px;
+    font-size: 40px;
     font-family:Optimus;
     color: black;
     letter-spacing: 10x;
-    
-    
+  	padding-bottom: 15px; 
 }
+
+
 
 #logo {
     font-weight: 900;
     font-size: 60px;
     letter-spacing: 10px;
+  	padding-top: 25px;
+    padding-bottom: 40px;
 }
+
+@media (min-width: 576px) {
+    p {font-size: 50px;}
+    #logo {
+        font-size: 70px;
+      	padding-top: 45px;
+        padding-bottom: 160px;
+    }
+}
+
 
 @font-face {
     font-family:Optimus;
