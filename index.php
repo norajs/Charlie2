@@ -19,30 +19,31 @@
         <div class="row justify-content-center" id="first_row">
             <div class="col align-self-center">
                 <p id="logo">Charlie SerabiaN</p>
-            </div>
-        </div>
-
-        <div class="row justify-content-center" id="rows">
-            <div class="col col-12 align-self-center">
-                
-                <p>WritinG</p>
                 
             </div>
         </div>
 
         <div class="row justify-content-center" id="rows">
             <div class="col col-12 align-self-center">
+                <a href="writing.php"><p>WritinG</p></a>
                 
                 
-                <p>IllustrationS</p>
+            </div>
+        </div>
+
+        <div class="row justify-content-center" id="rows">
+            <div class="col col-12 align-self-center">
+                
+                <a href="illustrations.php"><p>IllustrationS</p></a>
+                
                
             </div>
         </div>
 
         <div class="row justify-content-center" id="rows">
             <div class="col col-12 align-self-center">
+                <a href="about.php"><p>AbouT </br> ContacT</p></a>
                 
-                <p>AbouT </br> ContacT</p>
                 
             </div>
         </div>

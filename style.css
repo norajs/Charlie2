@@ -50,5 +50,10 @@ p {
     src: url(fonts/OptimusPrincepsSemiBold.ttf);
 }
 
+a:hover {
+    text-decoration: none;
+    text-shadow: 5px 5px 10px black;
+}
+
 
 
