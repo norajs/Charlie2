@@ -1,0 +1,37 @@
+body {
+    background-color: beige;
+    font-family:Optimus;
+}
+
+.col-sm {
+    border: 1px solid black;
+}
+
+p {
+    font-size: 30px;
+}
+
+#title {
+    font-size: 60px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+#pricing {
+    font-size: 40px;
+}
+
+#text {
+    text-align: center;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+@font-face {
+    font-family:Optimus;
+    src: url(fonts/OptimusPrincepsSemiBold.ttf);
+}
