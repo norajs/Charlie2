@@ -16,14 +16,32 @@
     
   <body>
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col col-12 align-self-center">
+        <div class="row justify-content-center" id="first_row">
+            <div class="col align-self-center">
                 <p id="logo">Charlie SerabiaN</p>
-                </br></br></br>
+            </div>
+        </div>
+
+        <div class="row justify-content-center" id="rows">
+            <div class="col col-12 align-self-center">
+                
                 <p>WritinG</p>
-                </br>
+                
+            </div>
+        </div>
+
+        <div class="row justify-content-center" id="rows">
+            <div class="col col-12 align-self-center">
+                
+                
                 <p>IllustrationS</p>
-                </br>
+               
+            </div>
+        </div>
+
+        <div class="row justify-content-center" id="rows">
+            <div class="col col-12 align-self-center">
+                
                 <p>AbouT </br> ContacT</p>
                 
             </div>

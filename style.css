@@ -7,19 +7,35 @@ html, body, .container{
     height: 100%;
 }
 
-
-.row {
-    height:100%;
+.container {
+    border: 1px solid green;
 }
+
+#first_row {
+    margin-top: 45px;
+    margin-bottom: 120px;
+}
+
+#rows {
+    margin-bottom: 35px;
+}
+
 
 .col {
     border: 1px solid black;
     text-align: center;
 }
 
+@media screen and (max-width: 568px) {
+        p {
+    font-size:10px;
+    }
+}
+
+
 p {
     font-weight: 900;
-    font-size: 70px;
+    font-size: 50px;
     font-family:Optimus;
     color: black;
     letter-spacing: 10x;
@@ -29,7 +45,7 @@ p {
 
 #logo {
     font-weight: 900;
-    font-size: 80px;
+    font-size: 60px;
     letter-spacing: 10px;
 }
 
@@ -37,4 +53,6 @@ p {
     font-family:Optimus;
     src: url(fonts/OptimusPrincepsSemiBold.ttf);
 }
+
+
 
