@@ -8,7 +8,7 @@ body {
 }
 
 p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 #title {
@@ -29,7 +29,6 @@ p {
     max-width: 100%;
     height: auto;
 }
-
 
 @font-face {
     font-family:Optimus;
